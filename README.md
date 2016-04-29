@@ -1,1 +1,1 @@
-# This is my personal website. Its basically my playground for webdev!
+# This is my personal website. Its basically my playground for webdev.
