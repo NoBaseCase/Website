@@ -15,7 +15,9 @@ body {
 
 }
 
-
+.navbar-brand {
+    color: white;
+}
 .img {
     border-radius: 50%;
     display: block;
@@ -24,6 +26,7 @@ body {
     padding: 0 px;
     border:10px solid #2969B0;
     margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 body {
@@ -34,6 +37,7 @@ body {
 
 .footer {
     color: white;
+    text-align: center
 }
 
 .navbar navbar-default {

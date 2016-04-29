@@ -240,7 +240,8 @@ th {
   }
   .navbar {
     display: none;
-  }
+    text-align: center;
+}
   .btn > .caret,
   .dropup > .btn > .caret {
     border-top-color: #000 !important;
