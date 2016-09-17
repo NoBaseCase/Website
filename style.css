@@ -175,3 +175,11 @@
         font-size: 150px;
     }
   }
+
+
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
