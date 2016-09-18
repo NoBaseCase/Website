@@ -186,3 +186,11 @@
 }
 
 
+
+.center {
+    text-align: center;
+}
+
+.no-bullet {
+    list-style: none
+}
